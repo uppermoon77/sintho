@@ -7045,13 +7045,12 @@ COVER BARU 2026 https://i.imgur.com/nISWTAB.jpeg
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 0 TNT SPORTS 01
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+EXTINF:-1  tvg-name="TNT Sports 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",LIVE 0 TNT Sports 1✅
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", LIVE 0 SKYSPORT 2✅
+#EXTINF:-1  tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS", LIVE 0 SKYSPORT 2✅
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport2_nz.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 0 SKYSPORT 8✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 0 SKYSPORT 8✅
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport8_nz.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -7059,7 +7058,7 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport8_nz.m3
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 1 FUBO SPORTS ✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 1 FUBO SPORTS ✅
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
@@ -7068,14 +7067,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 2 FUBO SPORTS 2  ✅
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 2 FUBO SPORTS 2  ✅
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 Premier Sports 1✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 Premier Sports 1✅
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d6.merichunidya.com:1686/hls/premieruk.m3u8?md5=vlaG_TZXo_1wyattI7avxw&expires=1765646305
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 Premier Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nISWTAB.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 Premier Sports 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 
@@ -7755,7 +7754,7 @@ FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVE
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
 #EXTINF:-1 group-title="BOLA | UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENASPORT 2
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111990
-#EXTINF:-1 group-title="BOLA | UEFA EROPA LEAGUEE" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENASPORT 3
+#EXTINF:-1 group-title="BOLA | UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENASPORT 3
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111991
 #EXTINF:-1 group-title="BOLA | UEFA EROPA LEAGUE" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENASPORT 4
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111992
@@ -8008,11 +8007,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/in
 #EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://i.imgur.com/sTZEYCS.jpeg" group-title="EVENT | SEA GAMES 2025",LIVE SEA GAMES 2025 3
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
+#EXTINF:-1  tvg-id="576061" group-title="EVENT | SEA GAMES 2025" tvg-logo="https://i.imgur.com/sTZEYCS.jpeg",LIVE SEA GAMES 2025 3 (2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
-#EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://i.imgur.com/sTZEYCS.jpeg" group-title=EVENT | SEA GAMES 2025",LIVE SEA GAMES 2025 4
+#EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://i.imgur.com/sTZEYCS.jpeg" group-title="EVENT | SEA GAMES 2025",LIVE SEA GAMES 2025 4
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
 
 
