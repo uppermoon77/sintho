@@ -41,8 +41,6 @@
 
 
 
-
-
 🕷️🕸️ NONONO 🕸️🕷️
 ^-^ ประเทศไทยรักอินโดนีเซีย
 🕷️🕸️ NANANA 🕸️🕷️
@@ -7685,6 +7683,10 @@ EVENT 1 ➡️ 8/3/2026 ⚽Newcastle United vs Manchester City✅
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://n1.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=80OYrPw4JcRCToT_SZCmjg&expires=1772911250
 
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Newcastle United vs Manchester Cit✅ (Sportsnet 360)
+https://7pal.short.gy/sptsnet360
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Port Vale vs Sunderland✅ ⚽(TNT 1)
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -7703,6 +7705,9 @@ https://n3.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=HZfcGAdn6a4h3O5kP3THPw&exp
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://n3.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=HZfcGAdn6a4h3O5kP3THPw&expires=1772911250
+
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Wrexham vs Chelsea✅ (Sportsnet 360)
+https://7pal.short.gy/sptsnet360
 
 
 
